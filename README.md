@@ -1,4 +1,4 @@
-### Hi there, I'm Mohammed Gehad BaHumaish 👋
+### Hi there, I'm Mohammed BaHumaish 👋
 
 ## I'm a Web Developer! 👨‍💻❤
 
