@@ -7,7 +7,7 @@
 - 🌱 currently learning everything 🤣
 - 🐱‍💻 I'm a fast learner,I like to explore new frameworks and tools
 - 👯 I’m looking to collaborate with others
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play chess ♟ and boxing 🥊
 
 ### Connect with me:
