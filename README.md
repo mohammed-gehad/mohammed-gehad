@@ -43,15 +43,6 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-[![mohammed-gehad's github stats](https://github-readme-stats.vercel.app/api?username=mohammed-gehad)](https://github.com/mohammed-gehad)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="mohammed-gehad's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mohammed-gehad&show_icons=true&hide_border=true" />
