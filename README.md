@@ -2,13 +2,13 @@
 
 ## I'm a Web Developer! 👨‍💻❤
 
-- 👨‍🎓 I'm a computer engineering student
-- 🔭 Full-Stack freelancer
-- 🌱 currently learning everything 🤣
-- 🐱‍💻 I'm a fast learner,I like to explore new frameworks and tools
-- 👯 I’m looking to collaborate with others
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play chess ♟ and boxing 🥊
+- 👨‍🎓 I'm a computer engineering student,
+- 🔭 Full-Stack freelancer,
+- 🌱 currently learning everything 🤣,
+- 🐱‍💻 fast learner,I like to explore new frameworks and tools,
+- 👯 looking to collaborate with others,
+- 🥅 2021 Goals: Contribute more to Open Source projects,
+- ⚡ Fun fact: I love to play Parchisi❤ and chess♟.
 
 ### Connect with me:
 
